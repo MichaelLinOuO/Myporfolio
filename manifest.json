@@ -8,17 +8,17 @@
       "type": "image/x-icon"
     },
     {
-      "src": "/android-chrome-192x192.png?v8=qAJ44G5Bm7",
+      "src": "/Myporfolio/android-chrome-192x192.png?v8=qAJ44G5Bm7",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "/android-chrome-384x384.png?v8=qAJ44G5Bm7",
+      "src": "/Myporfolio/android-chrome-384x384.png?v8=qAJ44G5Bm7",
       "type": "image/png",
       "sizes": "384x384"
     }
   ],
-  "start_url": "/Myporfolio",
+  "start_url": "",
   "display": "standalone",
   "theme_color": "#6c63ff",
   "background_color": "#ffffff"
