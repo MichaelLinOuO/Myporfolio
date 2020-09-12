@@ -18,7 +18,7 @@
       "sizes": "384x384"
     }
   ],
-  "start_url": ".",
+  "start_url": "/Myporfolio",
   "display": "standalone",
   "theme_color": "#6c63ff",
   "background_color": "#ffffff"
